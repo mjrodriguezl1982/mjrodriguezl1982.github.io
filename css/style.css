@@ -1,3 +1,33 @@
 h1{
     color: red;
 }
+
+ul>li{
+    display: inline-block;
+}
+
+section{
+    background-color: beige;
+    padding: 10px;
+}
+
+aside{
+    float: left;
+    width: 40%;
+}
+
+article{
+    background-color: aqua;
+    float: left;
+    padding: 20px;
+    width: 60%;
+
+}
+
+footer{
+    background-color:bisque;
+    width: 100%;
+    float: left;
+    padding: 10px;
+    margin: 10px 0 0 0;
+}
